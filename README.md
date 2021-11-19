@@ -3,8 +3,8 @@
 <tr>
 <td>
 - const snehal : ['Energetic','Hardworking','Helpful','Lazy'] </br>
-- var technologies : [Python, JavaScript, HTML, CSS, Sql] </br>
-- let technologies_learning : [React_Native, Redux, React JS] </br>
+- var technologies : [React_Native,Python, JavaScript, HTML, CSS, Sql] </br>
+- let technologies_learning : [NodeJS, Redux, ReactJS] </br>
 - const hobbies : ['Reading','Art & Craft','Watching movies'] </br>
 </td>
 <td>
